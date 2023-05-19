@@ -1,0 +1,66 @@
+@font-face {
+    font-family: PoppinsBold;
+    src: url("../Fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+    font-family: PoppinsRegular;
+    src: url("../Fonts/Poppins-Regular.ttf");
+}
+
+.cards {
+    padding: 20px;
+
+    .card {
+        border-radius: 20px;
+        display: flex;
+        width: 100%;
+        .offerInfo{
+            font-size: 10px;
+            position: absolute;
+            bottom: 90%;
+            left: 80%;
+        }
+
+        .card_img {
+            border-top-left-radius: 20px;
+            border-top-right-radius: 20px;
+            width: 100%;
+            height: 100%;
+            padding: 0%;
+        }
+
+        div {
+            h3 {
+                font-family: PoppinsBold;
+                font-size: 15px;
+            }
+
+            .card_info {
+                font-family: PoppinsRegular;
+                font-size: 13px;
+            }
+            .Price{
+                font-family: PoppinsBold;
+            }
+            .offerPrice{
+                color: rgba(0, 247, 0, 0.819);
+            }
+            .buttonsHere {
+                a {
+                    button {
+                        font-family: PoppinsBold;
+                        font-size: 13px;
+                    }
+
+                    .OpenAnAccountBtn {
+                        color: #007be5;
+                        border: 1px solid #007be5;
+                    }
+                   
+                }
+            }
+
+        }
+    }
+}

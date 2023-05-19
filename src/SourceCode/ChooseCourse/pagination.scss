@@ -1,0 +1,15 @@
+.pagination {
+    button {
+        padding: 10px;
+        margin: 10px;
+        width: 5%;
+        background: none;
+        border: none;
+        border-radius: 100%;
+
+        &:focus {
+            background-color: #dedede90;
+            border: 1px solid blue;
+        }
+    }
+}

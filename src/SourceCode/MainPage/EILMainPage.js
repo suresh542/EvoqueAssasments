@@ -34,7 +34,7 @@ export default function EILMainPage() {
      </div>
 
 
-     <div className="container mt-5 mb-5">
+     <div className="container pt-5 mb-5">
        <div className="row">
          <div className="col-md-3 leftSideBar">
            <LeftSideBar />
@@ -44,9 +44,6 @@ export default function EILMainPage() {
          </div>
        </div>
      </div>
-
-
-
 
      <div className="footer">
        <Footer/>
