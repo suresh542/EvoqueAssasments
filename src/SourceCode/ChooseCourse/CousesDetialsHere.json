@@ -3,33 +3,44 @@
         "id": 1,
         "images":"",
         "titles":"Invest in ideas with Small case ",
-        "infos":" Smallcases are investment products that help build a diversified, low-cost &#38; long term portfolio.",
+        "infos":" Smallcases are investment products that help build a diversified, low-cost long term portfolio.",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "https://drive.google.com/file/d/16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca/view",
+        "Reviews":"20",
+        "free":"Free"
     },
     {
         "id": 2,
         "images":"",
-        "titles":"lorem",
-        "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
-        "price":"100",
-        "offerPrices":"free"
+        "titles":"Buy Direct Funds at Zero Commission",
+        "infos":"Never depend on a single income, make an investment to create a second one with US",
+        "price":"1000",
+        "offerPrices":"500",
+        "RatingImage": "../images/Rating options/Group4.png",
+        "Reviews":"10"
     },
     {
         "id": 3,
         "images":"",
-        "titles":"lorem",
-        "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
-        "price":"100",
-        "offerPrices":"free"
+        "titles":"India's First Option trading Platform",
+        "infos":"You can trade options just by knowing the stock and its direction",
+        "price":"399",
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"7",
+        "free":"On offer"
+
     },
     {
         "id": 4,
         "images":"",
-        "titles":"lorem",
-        "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
-        "price":"100",
-        "offerPrices":"free"
+        "titles":"Intraday based Semi Algo Trading Platform",
+        "infos":"Optimum gives Buy above and sell below levels for stock Cash, Futures and MCX Markets",
+        "price":"399",
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"4"
     },
     {
         "id": 5,
@@ -37,7 +48,9 @@
         "titles":"lorem",
         "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"10"
     },
     {
         "id": 6,
@@ -45,7 +58,11 @@
         "titles":"lorem",
         "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"0",
+        "free":"Free"
+
     },
     {
         "id": 7,
@@ -53,7 +70,9 @@
         "titles":"lorem",
         "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"16"
     },
     {
         "id": 8,
@@ -61,7 +80,9 @@
         "titles":"lorem",
         "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"7"
     },
     {
         "id": 9,
@@ -69,7 +90,9 @@
         "titles":"lorem",
         "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"12"
     },
     {
         "id": 10,
@@ -77,7 +100,9 @@
         "titles":"lorem",
         "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"11"
     },
     {
         "id": 11,
@@ -85,7 +110,21 @@
         "titles":"lorem",
         "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
         "price":"100",
-        "offerPrices":"free"
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"10",
+        "free":"Free"
+
+    },
+    {
+        "id": 12,
+        "images":"",
+        "titles":"lorem",
+        "infos":" oairjwrnoiqj worijgwoerijg oweir ewirjg woeirjgoweirjg owwoi jrgowijr gowijg owerijg",
+        "price":"100",
+        "offerPrices":"Free",
+        "RatingImage": "",
+        "Reviews":"3"
     }
 ]
 

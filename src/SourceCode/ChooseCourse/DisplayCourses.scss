@@ -13,13 +13,27 @@
 
     .card {
         border-radius: 20px;
-        display: flex;
         width: 100%;
-        .offerInfo{
-            font-size: 10px;
+        height: 100%;
+        box-shadow: 0px 5px 15px rgba(185, 185, 185, 0.295);
+
+        &:hover {
+            transform: scale(1.05);
+        }
+
+        .offerInfo {
+            font-size: 15px;
             position: absolute;
             bottom: 90%;
-            left: 80%;
+            width: 70px;
+            height: auto;
+            color: white;
+            background-color: red;
+            border-radius: 5px;
+            text-align: center;
+            font-family: PoppinsRegular;
+            font-size: 15px;
+            left: 75%;
         }
 
         .card_img {
@@ -38,14 +52,24 @@
 
             .card_info {
                 font-family: PoppinsRegular;
-                font-size: 13px;
+                font-size: 10px;
             }
-            .Price{
+
+            .Price {
                 font-family: PoppinsBold;
             }
-            .offerPrice{
-                color: rgba(0, 247, 0, 0.819);
+
+            span {
+                font-size: 13px;
+
             }
+
+            .offerPrice {
+                font-size: 15px;
+                font-weight: 800;
+                color: rgba(0, 210, 0, 0.819);
+            }
+
             .buttonsHere {
                 a {
                     button {
@@ -57,10 +81,28 @@
                         color: #007be5;
                         border: 1px solid #007be5;
                     }
-                   
+
                 }
             }
 
         }
+    }
+}
+
+.RatingAndReviews {
+    font-family: PoppinsRegular;
+    position: absolute;
+    top: 43%;
+    left: 5%;
+    padding: 5px;
+
+    img {
+        width: 150px;
+        height: 100%;
+    }
+
+    .reviews {
+        font-size: 15px;
+        color: white;
     }
 }

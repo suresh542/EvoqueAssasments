@@ -8,7 +8,7 @@ import axios from 'axios';
 export default function Courses() {
     const [coursesData, setCoursesData] = useState(DataLists);
     const [currentPage, setCurrentPage] = useState(1);
-    const [postPerPage, setPostPerPage] = useState(2);
+    const [postPerPage, setPostPerPage] = useState(4);
 
     useEffect(() => {
         async function fetch() {
@@ -39,11 +39,13 @@ export default function Courses() {
                         </select>
                     </div>
                 </div>
-                <div className="DisplayCourses mt-5">
-                    <CoursesList coursesData={currentPosts} />
+                <div className="courses">
+                    <div className="DisplayCourses mt-5 ">
+                        <CoursesList coursesData={currentPosts} />
+                    </div>
                 </div>
             </div>
-            <div className="paginationHere">
+            <div className="paginationBtn">
                 <Pagination
                     totalsPage={coursesData.length}
                     postPerPage={postPerPage}

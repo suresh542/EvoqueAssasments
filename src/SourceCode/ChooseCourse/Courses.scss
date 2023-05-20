@@ -16,11 +16,16 @@
 
 .CoursesMainBody {
     .coursesDetails {
-        border-left: 1px solid rgba(150, 150, 150, 0.502);
+        border-left: 1px solid rgba(221, 221, 221, 0.502);
     }
 }
-
-
+@media only screen and (max-width:992px){
+    .CoursesMainBody {
+        .coursesDetails {
+            border-left:none;
+        }
+    }
+}
 .dropdownBtn {
     border: none;
     background: none;
@@ -49,4 +54,12 @@
             border: none;
         }
     }
+}
+.DisplayCourses{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    display: flex;
+    justify-content: end;
+    
 }

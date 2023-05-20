@@ -5,7 +5,7 @@ import DisplayCourses from './DisplayCourses'
 const CoursesList = ({ coursesData }) => {
 
     return (
-        <div>
+        <div className='listOfCourses'>
             {coursesData.map(
                 (props, index) => {
                     return (
@@ -16,6 +16,9 @@ const CoursesList = ({ coursesData }) => {
                             cardsCats={props.infos}
                             prices={props.price}
                             OfferPrices={props.offerPrices}
+                            RatingImage={props.RatingImage}
+                            ReviewCount={props.Reviews}
+                            free={props.free}
                         />
                     )
                 }

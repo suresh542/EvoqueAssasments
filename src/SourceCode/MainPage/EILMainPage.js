@@ -12,7 +12,7 @@ export default function EILMainPage() {
 
 
      {/* Header File */}
-     <div className="header mt-3">
+     <div className="header mt-3 mb-2">
        <Header />
      </div>
 
