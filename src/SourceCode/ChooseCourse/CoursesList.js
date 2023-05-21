@@ -5,13 +5,13 @@ import DisplayCourses from './DisplayCourses'
 const CoursesList = ({ coursesData }) => {
 
     return (
-        <div className='listOfCourses'>
+        <div className='listOfCourses ms-md-5 ps-md-5'>
             {coursesData.map(
                 (props, index) => {
                     return (
                         <DisplayCourses
                             key={index}
-                            images={props.image}
+                            images={props.images}
                             CardsTitle={props.titles}
                             cardsCats={props.infos}
                             prices={props.price}

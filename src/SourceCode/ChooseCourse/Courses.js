@@ -35,7 +35,6 @@ export default function Courses() {
                             <option className='d-none' value="Select">Select by</option>
                             <option value="Newly">Newly added</option>
                             <option value="Popularity">Popularity</option>
-                            <option value="Other">Other</option>
                         </select>
                     </div>
                 </div>

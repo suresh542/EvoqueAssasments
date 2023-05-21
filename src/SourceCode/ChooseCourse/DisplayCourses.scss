@@ -22,26 +22,29 @@
         }
 
         .offerInfo {
-            font-size: 15px;
+
             position: absolute;
             bottom: 90%;
-            width: 70px;
-            height: auto;
+            padding: 5px;
             color: white;
             background-color: red;
             border-radius: 5px;
             text-align: center;
             font-family: PoppinsRegular;
-            font-size: 15px;
+            font-size: 13px;
+            font-family: 900;
             left: 75%;
         }
 
         .card_img {
-            border-top-left-radius: 20px;
-            border-top-right-radius: 20px;
-            width: 100%;
-            height: 100%;
-            padding: 0%;
+            img {
+                border-top-left-radius: 20px;
+                border-top-right-radius: 20px;
+                box-shadow: inset 5px 1px 20px black;
+                width: 100%;
+                height: 100%;
+                padding: 0%;
+            }
         }
 
         div {
@@ -92,12 +95,12 @@
 .RatingAndReviews {
     font-family: PoppinsRegular;
     position: absolute;
-    top: 43%;
+    margin: 40% 0 0 0;
     left: 5%;
     padding: 5px;
 
     img {
-        width: 150px;
+        width: 30%;
         height: 100%;
     }
 

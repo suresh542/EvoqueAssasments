@@ -7,6 +7,7 @@ import Courses from '../ChooseCourse/Courses'
 
 
 export default function EILMainPage() {
+  
  return (
    <div className='mainPage'>
 
@@ -36,7 +37,7 @@ export default function EILMainPage() {
 
      <div className="container pt-5 mb-5">
        <div className="row">
-         <div className="col-md-3 leftSideBar">
+         <div className="col-md-3 leftSideBar" >
            <LeftSideBar />
          </div>
          <div className="col-md-9">

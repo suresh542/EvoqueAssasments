@@ -1,16 +1,16 @@
 import React from 'react'
 import "./DisplayCourses.scss"
-import Images1 from "../images/CourseImages/image.jpg"
+
 
 export default function DisplayCourses(props) {
-
-
   return (
     <div className='DisplayCourses w-100 '  >
       <div className="cards " id="">
         <div className="card " id="" >
-          <img src={Images1} id="" href="s" alt="" className="card_img" />
-          {/* <button className='btn btn-danger offerInfo'>{props.free}</button> */}
+        <div className="card_img">
+        <img src={props.images} id="" href="s" alt="" />
+
+        </div>
           <span className='offerInfo'>{props.free}</span>
           <div className='RatingAndReviews pb-1 d-flex'>
             <img src={props.RatingImage} alt="" className='' />
@@ -32,7 +32,7 @@ export default function DisplayCourses(props) {
                 <span className='Price'>Price: &#8377; {props.prices}</span> <span> per small case(buy)</span>
               </div>
               <div className='mt-2'>
-                <span>Offer price: </span> <span className='offerPrice'>{props.OfferPrices}</span>  <span>  for customers</span>
+                <span>Offer price: </span>  <span className='offerPrice ps-1'>{props.OfferPrices}</span>  <span className='ps-1'>  for customers</span>
               </div>
               <div className="buttonsHere d-flex justify-content-between">
                 <a href={"#ViewMoreDetails"} >

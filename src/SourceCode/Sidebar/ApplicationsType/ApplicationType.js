@@ -2,6 +2,9 @@ import React from 'react'
 import "./ApplicationType.scss"
 
 export default function ApplicationType() {
+  
+
+
   return (
     <div className='FilterApplicationsTypes'>
             <div className="titles">

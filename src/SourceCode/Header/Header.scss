@@ -23,15 +23,18 @@ nav {
             font-family: PoppinsBold;
             color: black;
         }
+
         button {
             span {
                 color: #000000;
             }
         }
+
         div {
             font-weight: 200;
             display: flex;
             justify-content: center;
+
             ul {
                 color: #000000;
 
@@ -48,13 +51,15 @@ nav {
                             transition: all 0.5s;
                         }
                     }
+
                     a {
                         font-size: 15px;
                         letter-spacing: 0.5px;
                         cursor: pointer;
                         position: relative;
                         color: black;
-                        &:focus {   
+
+                        &:focus {
                             &::after {
                                 content: "";
                                 position: relative;
@@ -75,6 +80,7 @@ nav {
                 }
             }
         }
+
         .buttons {
             margin: 0 0px 0 0;
             border-radius: 5px;
