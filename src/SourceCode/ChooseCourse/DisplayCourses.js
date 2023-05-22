@@ -11,7 +11,7 @@ export default function DisplayCourses(props) {
         <img src={props.images} id="" href="s" alt="" />
 
         </div>
-          <span className='offerInfo'>{props.free}</span>
+          <span className='offerInfo '>{props.free}</span>
           <div className='RatingAndReviews pb-1 d-flex'>
             <img src={props.RatingImage} alt="" className='' />
             <div className="reviews ps-1">

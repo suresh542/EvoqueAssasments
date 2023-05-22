@@ -2,11 +2,11 @@ import React from 'react'
 import "./CoursesList.scss"
 import DisplayCourses from './DisplayCourses'
 
-const CoursesList = ({ coursesData }) => {
+const CoursesList = ({ emptyArray }) => {
 
     return (
         <div className='listOfCourses ms-md-5 ps-md-5'>
-            {coursesData.map(
+            {emptyArray.map(
                 (props, index) => {
                     return (
                         <DisplayCourses

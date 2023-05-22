@@ -2,7 +2,7 @@ import React from 'react'
 import "./EILMainPage.scss"
 import Header from "../Header/Header"
 import Footer from '../Footer/Footer'
-import LeftSideBar from '../Sidebar/LeftSideBar'
+// import LeftSideBar from '../Sidebar/LeftSideBar'
 import Courses from '../ChooseCourse/Courses'
 
 
@@ -36,14 +36,16 @@ export default function EILMainPage() {
 
 
      <div className="container pt-5 mb-5">
-       <div className="row">
+     <Courses/>
+
+       {/* <div className="row">
          <div className="col-md-3 leftSideBar" >
            <LeftSideBar />
          </div>
          <div className="col-md-9">
              <Courses/>
          </div>
-       </div>
+       </div> */}
      </div>
 
      <div className="footer">

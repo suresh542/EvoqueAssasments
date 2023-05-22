@@ -63,3 +63,85 @@
     justify-content: end;
     
 }
+
+@font-face {
+    font-family: PoppinsBold;
+    src: url("../Fonts/Poppins-SemiBold.ttf");
+}
+@font-face {
+    font-family: PoppinsLight;
+    src: url("../Fonts/Poppins-Light.ttf");
+}
+@font-face {
+    font-family: PoppinsMedium;
+    src: url("../Fonts/Poppins-Medium.ttf");
+
+}
+@font-face {
+    font-family: poppinsRegular;
+    src: url("../Fonts/Poppins-Regular.ttf");
+}
+.leftSidebar{
+   
+    form{
+        width: 100%;
+        height: 40px;
+        border-radius: 5px;
+        padding: 6px;
+        border: 1px solid rgb(190, 190, 190);
+        input{
+            font-family: poppinsRegular;
+            width: 100%;
+            border: none;
+            padding: 0%;
+            &:focus{
+                outline: none;
+            }
+        }
+    }
+}
+
+
+
+.filterDevelopedBy {
+    .titles {
+        font-family: PoppinsBold;
+    }
+}
+
+input {
+    outline: none;
+}
+
+.RatiosBtn {
+    div {
+        padding: 5px;
+
+        label {
+            font-family: PoppinsLight;
+            letter-spacing: 1px;
+            font-size: 14px;
+            padding: 10px;
+        }
+    }
+}
+.ratioBtn{
+    .RatingTitles{
+        font-family: PoppinsBold;
+        label{
+            padding: 10px;
+        }
+    }
+}
+
+img{
+    width: 45%;
+    height: 100%;
+    padding-right: 10px;
+}
+
+.FilterApplicationsTypes{
+    .titles{
+        font-family: PoppinsBold;
+    }
+}

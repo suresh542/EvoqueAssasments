@@ -8,7 +8,9 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
         "Reviews":"20",
-        "free":"Free"
+        "free":"Free",
+        "category": "Category A",
+        "Star":"4"
     },
     {
         "id": 2,
@@ -18,7 +20,11 @@
         "price":"1000",
         "offerPrices":"500",
         "RatingImage": "https://drive.google.com/uc?id=12xsMUI1GJ9_R9SRKrqefJQ9ZAbv0xjtt",
-        "Reviews":"10"
+        "Reviews":"10",
+        "free":"",
+        "category": "Category A",
+        "Star":"1"
+
     },
     {
         "id": 3,
@@ -29,7 +35,9 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"7",
-        "free":"On offer"
+        "free":"On offer",
+        "category": "Category A",
+        "Star":"3"
 
     },
     {
@@ -40,7 +48,10 @@
         "price":"399",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
-        "Reviews":"4"
+        "Reviews":"4",
+        "category": "Category A",
+        "Star":"2"
+
     },
     {
         "id": 5,
@@ -50,7 +61,11 @@
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
-        "Reviews":"10"
+        "Reviews":"10",
+        "category": "Category A",
+        "Star":"3"
+
+
     },
     {
         "id": 6,
@@ -61,7 +76,11 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1jebAvJYDgDTeO504Mc1PMJVX-1buOTwi",
         "Reviews":"0",
-        "free":"Free"
+        "free":"Free",
+        "category": "Category A",
+        "Star":"0"
+
+
 
     },
     {
@@ -72,7 +91,11 @@
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
-        "Reviews":"16"
+        "Reviews":"16",
+        "category": "Category A",
+        "Star":"4"
+
+
     },
     {
         "id": 8,
@@ -82,7 +105,11 @@
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
-        "Reviews":"7"
+        "Reviews":"7",
+        "category": "Category A",
+        "Star":"3"
+
+
     },
     {
         "id": 9,
@@ -92,7 +119,11 @@
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
-        "Reviews":"4"
+        "Reviews":"4",
+        "category": "Category A",
+        "Star":"2"
+
+
     },
     {
         "id": 10,
@@ -102,7 +133,11 @@
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
-        "Reviews":"8"
+        "Reviews":"8",
+        "category": "Category A",
+        "Star":"2"
+
+
     },
     {
         "id": 11,
@@ -113,7 +148,11 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=12xsMUI1GJ9_R9SRKrqefJQ9ZAbv0xjtt",
         "Reviews":"10",
-        "free":"Free"
+        "free":"Free",
+        "category": "Category A",
+        "Star":"1"
+
+
 
     },
     {
@@ -124,7 +163,11 @@
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
-        "Reviews":"3"
+        "Reviews":"3",
+        "category": "Category A",
+        "Star":"3"
+
+
     },
     {
         "id": 13,
@@ -135,7 +178,11 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
         "Reviews":"20",
-        "free":"Free"
+        "free":"Free",
+        "category": "Category A",
+        "Star":"4"
+
+
     },
     {
         "id": 14,
@@ -145,7 +192,11 @@
         "price":"1000",
         "offerPrices":"500",
         "RatingImage": "https://drive.google.com/uc?id=12xsMUI1GJ9_R9SRKrqefJQ9ZAbv0xjtt",
-        "Reviews":"10"
+        "Reviews":"10",
+        "category": "Category A",
+        "Star":"1"
+
+
     },
     {
         "id": 15,
@@ -156,7 +207,11 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"7",
-        "free":"On offer"
+        "free":"On offer",
+        "category": "Category A",
+        "Star":"3"
+
+
 
     },
     {
@@ -167,28 +222,67 @@
         "price":"399",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
-        "Reviews":"4"
+        "Reviews":"4",
+        "category": "Category A",
+        "Star":"2"
+
+
     },
     {
         "id": 17,
         "images":"https://drive.google.com/uc?id=1Xd02vEEFyUpqeNjLcqTbUY2-shkwd2sS",
         "titles":"India's First Option trading Platform",
-        "infos":"",
+        "infos":"Never depend on a single income, make an investment to create a second one with US",
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
-        "Reviews":"10"
+        "Reviews":"10",
+        "category": "Category A",
+        "Star":"3"
+
+
     },
     {
         "id": 18,
         "images":"https://drive.google.com/uc?id=1eM1P_XT2fTMHuX46h70pTlHg2W2Tz8gN",
         "titles":"Invest in ideas with Small case",
-        "infos":"",
+        "infos":"Never depend on a single income, make an investment to create a second one with US",
         "price":"100",
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1jebAvJYDgDTeO504Mc1PMJVX-1buOTwi",
         "Reviews":"0",
-        "free":"Free"
+        "free":"Free",
+        "category": "Category A",
+        "Star":"0"
+    },
+    {
+        "id": 19,
+        "images":"https://drive.google.com/uc?id=1eM1P_XT2fTMHuX46h70pTlHg2W2Tz8gN",
+        "titles":"Invest in ideas with Small case",
+        "infos":" Optimum gives Buy above and sell below levels for stock Cash, Futures and MCX Markets",
+        "price":"100",
+        "offerPrices":"Free",
+        "RatingImage": "https://drive.google.com/uc?id=1jebAvJYDgDTeO504Mc1PMJVX-1buOTwi",
+        "Reviews":"0",
+        "free":"Free",
+        "category": "Category A",
+        "Star":"0"
+
+
+
+    },
+    {
+        "id": 20,
+        "images":"https://drive.google.com/uc?id=13T963owNivCE_sjsIaVpNZCTFC2P9oFO",
+        "titles":"Buy Direct Funds at Zero Commission",
+        "infos":" Optimum gives Buy above and sell below levels for stock Cash, Futures and MCX Markets",
+        "price":"100",
+        "offerPrices":"Free",
+        "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
+        "Reviews":"16",
+        "category": "Category A",
+        "Star":"4"
+
 
     }
 ]
