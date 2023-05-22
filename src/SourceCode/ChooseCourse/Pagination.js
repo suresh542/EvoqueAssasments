@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import "./pagination.scss"
 
  
@@ -17,9 +17,9 @@ const Pagination = ({
   } 
 
 
+
   return (
     <div className='pagination m-3'>
-    <button id='previewsBtn' > <i className="fa-solid fa-angle-left"  ></i></button>
       {pages.map(
         (page, i) => {
           return (
@@ -34,7 +34,6 @@ const Pagination = ({
           )
         }
       )}
-      <button><i class="fa-solid fa-angle-right"></i></button>
     </div>
   )
 }

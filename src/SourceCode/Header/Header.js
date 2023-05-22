@@ -5,6 +5,10 @@ import "./Header.scss";
 export default function Header() {
 
        const [navbarIcons,setNavbarIcons]= useState(false);
+       const [activeLink,setActiveLink]=useState('')
+        const handelClick = (Links)=>{
+            setActiveLink(Links)
+        }
 
     
     return (
@@ -27,8 +31,8 @@ export default function Header() {
                                     <li class="nav-item">
                                         <a class="nav-link " aria-current="page" href="#About">About</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link active" href="#Marketplace">Marketplace</a>
+                                    <li class={activeLink === 'MarketPlace' ? 'active' : ''} >
+                                        <a className="nav-link active" onClick={()=>{handelClick('MarketPlace')}} href="#Marketplace">Marketplace</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#Resource">Resource</a>

@@ -1,6 +1,7 @@
     [  
           {
         "id": 1,
+        "data":"courses",
         "images":"https://drive.google.com/uc?id=1kq-80EqOcaFYOILIjR4MEbnqgazJmx2S",
         "titles":"Invest in ideas with Small case ",
         "infos":" Smallcases are investment products that help build a diversified, low-cost long term portfolio.",
@@ -9,8 +10,9 @@
         "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
         "Reviews":"20",
         "free":"Free",
-        "category": "Category A",
-        "Star":"4"
+        "category": "A",
+        "Star":"4",
+        "ApplicationType":"webBasedApplications"
     },
     {
         "id": 2,
@@ -22,8 +24,11 @@
         "RatingImage": "https://drive.google.com/uc?id=12xsMUI1GJ9_R9SRKrqefJQ9ZAbv0xjtt",
         "Reviews":"10",
         "free":"",
-        "category": "Category A",
-        "Star":"1"
+        "category": "A",
+        "Star":"1",
+        "data":"courses",
+        "ApplicationType":"mobileBasedApplications"
+
 
     },
     {
@@ -36,9 +41,10 @@
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"7",
         "free":"On offer",
-        "category": "Category A",
-        "Star":"3"
-
+        "category": "B",
+        "Star":"3",
+        "data":"courses",
+        "ApplicationType":"mobileBasedApplications"
     },
     {
         "id": 4,
@@ -49,9 +55,10 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
         "Reviews":"4",
-        "category": "Category A",
-        "Star":"2"
-
+        "category": "C",
+        "Star":"2",
+        "data":"courses",
+        "ApplicationType":"webBasedApplications"
     },
     {
         "id": 5,
@@ -62,10 +69,10 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"10",
-        "category": "Category A",
-        "Star":"3"
-
-
+        "category": "A",
+        "Star":"3",
+        "data":"courses",
+        "ApplicationType":"mobileBasedApplications"
     },
     {
         "id": 6,
@@ -77,11 +84,10 @@
         "RatingImage": "https://drive.google.com/uc?id=1jebAvJYDgDTeO504Mc1PMJVX-1buOTwi",
         "Reviews":"0",
         "free":"Free",
-        "category": "Category A",
-        "Star":"0"
-
-
-
+        "category": "B",
+        "Star":"0",
+        "data":"courses",
+        "ApplicationType":"webBasedApplications"
     },
     {
         "id": 7,
@@ -92,9 +98,10 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
         "Reviews":"16",
-        "category": "Category A",
-        "Star":"4"
-
+        "category": "C",
+        "Star":"4",
+        "data":"courses",
+        "ApplicationType":"webBasedApplications"
 
     },
     {
@@ -106,10 +113,11 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"7",
-        "category": "Category A",
-        "Star":"3"
-
-
+        "category": "B",
+        "Star":"3",
+        "data":"courses",
+        "ApplicationType":"mobileBasedApplications"
+        
     },
     {
         "id": 9,
@@ -120,10 +128,10 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
         "Reviews":"4",
-        "category": "Category A",
-        "Star":"2"
-
-
+        "category": "C",
+        "Star":"2",
+        "data":"courses",
+        "ApplicationType":"mobileBasedApplications"
     },
     {
         "id": 10,
@@ -134,10 +142,10 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
         "Reviews":"8",
-        "category": "Category A",
-        "Star":"2"
-
-
+        "category": "B",
+        "Star":"2",
+        "data":"courses",
+        "ApplicationType":"webBasedApplications"
     },
     {
         "id": 11,
@@ -149,11 +157,9 @@
         "RatingImage": "https://drive.google.com/uc?id=12xsMUI1GJ9_R9SRKrqefJQ9ZAbv0xjtt",
         "Reviews":"10",
         "free":"Free",
-        "category": "Category A",
-        "Star":"1"
-
-
-
+        "category": "A",
+        "Star":"1",
+        "data":"courses"
     },
     {
         "id": 12,
@@ -164,9 +170,9 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"3",
-        "category": "Category A",
-        "Star":"3"
-
+        "category": "B",
+        "Star":"3",
+        "data":"courses"
 
     },
     {
@@ -179,10 +185,10 @@
         "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
         "Reviews":"20",
         "free":"Free",
-        "category": "Category A",
-        "Star":"4"
-
-
+        "category": "C",
+        "Star":"4",
+        "data":"courses",
+        "ApplicationType":"mobileBasedApplications"
     },
     {
         "id": 14,
@@ -193,10 +199,9 @@
         "offerPrices":"500",
         "RatingImage": "https://drive.google.com/uc?id=12xsMUI1GJ9_R9SRKrqefJQ9ZAbv0xjtt",
         "Reviews":"10",
-        "category": "Category A",
-        "Star":"1"
-
-
+        "category": "D",
+        "Star":"1",
+        "data":"courses"
     },
     {
         "id": 15,
@@ -208,11 +213,9 @@
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"7",
         "free":"On offer",
-        "category": "Category A",
-        "Star":"3"
-
-
-
+        "category": "B",
+        "Star":"3",
+        "data":"courses"
     },
     {
         "id": 16,
@@ -223,10 +226,10 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1uTLlIk0IJn7fR0Q8l4omr3CI4laqEwnr",
         "Reviews":"4",
-        "category": "Category A",
-        "Star":"2"
-
-
+        "category": "A",
+        "Star":"2",
+        "data":"courses",
+        "ApplicationType":"webBasedApplications"
     },
     {
         "id": 17,
@@ -237,10 +240,9 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=1R5oCtPnh3PdrKkUZs8ysGkeTgRBgTGYd",
         "Reviews":"10",
-        "category": "Category A",
-        "Star":"3"
-
-
+        "category": "C",
+        "Star":"3",
+        "data":"courses"
     },
     {
         "id": 18,
@@ -252,8 +254,10 @@
         "RatingImage": "https://drive.google.com/uc?id=1jebAvJYDgDTeO504Mc1PMJVX-1buOTwi",
         "Reviews":"0",
         "free":"Free",
-        "category": "Category A",
-        "Star":"0"
+        "category": "A",
+        "Star":"0",
+        "data":"courses",
+        "ApplicationType":"webBasedApplications"
     },
     {
         "id": 19,
@@ -265,11 +269,9 @@
         "RatingImage": "https://drive.google.com/uc?id=1jebAvJYDgDTeO504Mc1PMJVX-1buOTwi",
         "Reviews":"0",
         "free":"Free",
-        "category": "Category A",
-        "Star":"0"
-
-
-
+        "category": "B",
+        "Star":"0",
+        "data":"courses"
     },
     {
         "id": 20,
@@ -280,10 +282,9 @@
         "offerPrices":"Free",
         "RatingImage": "https://drive.google.com/uc?id=16lkOHg1bZHjnnMFJOcbDp_wGBEY0y3ca",
         "Reviews":"16",
-        "category": "Category A",
-        "Star":"4"
-
-
+        "category": "C",
+        "Star":"4",
+        "data":"courses"
     }
 ]
 
